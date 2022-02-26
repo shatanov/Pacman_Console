@@ -38,7 +38,6 @@ namespace Pacman
                     {
                         pacmanX = i;
                         pacmanY = j;
-                        map[i, j] = ' ';
                     }
                 }
             }
